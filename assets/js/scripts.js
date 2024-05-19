@@ -1,6 +1,6 @@
 /**
  * Shelly HTML Template
- * Pribadi Premiere - Elementary has been specially designed with your learning community in mind.
+ * Elementary - Pribadi Premiere has been specially designed with your learning community in mind.
  * Exclusively on https://1.envato.market/tf-merkulove
  *
  * @encoding        UTF-8
